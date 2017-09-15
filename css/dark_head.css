@@ -12,3 +12,7 @@ html, body {
     color: white;
     margin: 0;
 }
+
+.header_box a:link, .header_box a:visited {
+    color: #ffffff;
+}
