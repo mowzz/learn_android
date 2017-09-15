@@ -13,6 +13,10 @@ html, body {
     margin: 0;
 }
 
+.header_box p {
+    margin: 0;
+}
+
 .header_box a:link, .header_box a:visited {
     color: #ffffff;
 }
