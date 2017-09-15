@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+}
+
+.header_box {
+    background: #2c2c30;
+    padding: 2rem 4rem;
+    text-align: center;
+}
+
+.header_box h1 {
+    color: white;
+    margin: 0;
+}
