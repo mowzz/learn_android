@@ -10,3 +10,15 @@
     border: dashed 1px rgba(80, 160, 80, 0.8);
     padding: 2rem 4rem;
 }
+
+.feat_item_list {
+    margin: 0;
+}
+
+.feat_item_title {
+    margin: 0;
+}
+
+.feat_item_body_line {
+    margin: 0.5rem 0 0 0;
+}
